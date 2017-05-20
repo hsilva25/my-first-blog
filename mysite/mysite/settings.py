@@ -25,7 +25,7 @@ SECRET_KEY = '2*me=9=#m!$v=4zphonfqr7#^*nh(h6ol1zhu^b4bj28yw(ox0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hsilva25.pythonanywhere.com']
 
 
 # Application definition
